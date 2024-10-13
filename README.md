@@ -7,7 +7,7 @@ A web application that allows users to create digital sketches and upload them t
 
 Check out the live demo of the application here: [My Digital Sketchbook Demo](#)
 
-## Installation
+Installation
 
 To run the project locally, follow these steps:
 
