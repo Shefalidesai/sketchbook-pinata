@@ -1,17 +1,9 @@
-Here’s a sample README file for your project, excluding any Firebase-related content:
-
-```markdown
-# My Digital Sketchbook
-
 A web application that allows users to create digital sketches and upload them to Pinata for storage on the IPFS network. The app features a user-friendly interface for drawing, downloading sketches, and securely storing them on a decentralized platform.
 
-## Features
 
-- **Canvas Drawing**: Intuitive drawing tools with various colors and brush sizes.
-- **Download Option**: Save sketches as image files in JPG format.
-- **Pinata Integration**: Upload sketches to Pinata for secure storage on IPFS.
-
-## Demo
+- Canvas Drawing: Intuitive drawing tools with various colors and brush sizes.
+- Download Option: Save sketches as image files in JPG format.
+- Pinata Integration: Upload sketches to Pinata for secure storage on IPFS.
 
 Check out the live demo of the application here: [My Digital Sketchbook Demo](#)
 
@@ -22,8 +14,8 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Shefalidesai/sketchbook-pinata
+   cd sketchbook-pinata
    ```
 
 2. **Install dependencies**:
